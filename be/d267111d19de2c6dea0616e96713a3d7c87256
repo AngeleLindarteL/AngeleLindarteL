@@ -1,0 +1,19 @@
+.github/workflows/metrics.yml
+  s_9c095d8ff5d5a6::t_e05b499ee7c6b5 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "bed267111d19de2c6dea0616e96713a3d7c87256",
+  "prompts": {},
+  "sessions": {
+    "s_9c095d8ff5d5a6": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0479b7f70ffe7OeeDmar5H2vPa",
+        "model": "minimax-m3"
+      },
+      "human_author": "AngeleLindarteL <aelindarte@gmail.com>"
+    }
+  }
+}
