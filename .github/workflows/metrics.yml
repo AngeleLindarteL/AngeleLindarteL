@@ -25,5 +25,5 @@ jobs:
           plugin_habits_plugin_activity: yes
           plugin_activity: yes
           config_timezone: America/Argentina/Buenos_Aires
-          config_output: markdown
+          config_output: svg
           template: classic
