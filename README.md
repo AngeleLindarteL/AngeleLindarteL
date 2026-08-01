@@ -17,8 +17,6 @@ Dev · backend, cloud e IA.
   </a>
 </p>
 
----
-
 ### Languages
 
 <img src="https://github.com/lowlighter/metrics/blob/master/.github/metrics/classic/languages.svg" alt="Languages" />
