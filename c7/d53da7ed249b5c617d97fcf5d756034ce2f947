@@ -1,0 +1,25 @@
+README.md
+  h_0b1c77ec04af1b 30,56
+  s_06843953df4447::t_f0e0e180b63ddb 7,10-11,14,16,20,27,29,31-37,41,53,55,57-62,66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "c7d53da7ed249b5c617d97fcf5d756034ce2f947",
+  "prompts": {},
+  "humans": {
+    "h_0b1c77ec04af1b": {
+      "author": "AngeleLindarteL <aelindarte@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_06843953df4447": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0385f097-3dc3-4121-a0b3-77cc8f69d24d",
+        "model": "default"
+      },
+      "human_author": "AngeleLindarteL <aelindarte@gmail.com>"
+    }
+  }
+}
