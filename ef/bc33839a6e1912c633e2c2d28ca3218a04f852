@@ -1,0 +1,21 @@
+.github/workflows/metrics.yml
+  s_06843953df4447::t_0e180a206ef06c 15-24,38,42,46-47,49,53,57,59,68
+README.md
+  s_06843953df4447::t_a9c3c579e98fa9 11,14-18,26,28,32,34,54-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "efbc33839a6e1912c633e2c2d28ca3218a04f852",
+  "prompts": {},
+  "sessions": {
+    "s_06843953df4447": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "0385f097-3dc3-4121-a0b3-77cc8f69d24d",
+        "model": "default"
+      },
+      "human_author": "AngeleLindarteL <aelindarte@gmail.com>"
+    }
+  }
+}
