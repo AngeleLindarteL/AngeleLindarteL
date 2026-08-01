@@ -19,40 +19,31 @@ Dev · backend, cloud e IA.
 
 ### Languages
 
-<img src="https://github.com/lowlighter/metrics/blob/master/.github/metrics/classic/languages.svg" alt="Languages" />
+![Languages](./metrics.languages.svg)
 
 ---
 
-### Coding habits & activity
+### Coding habits
 
-<img src="https://github.com/lowlighter/metrics/blob/master/.github/metrics/classic/habits.svg" alt="Coding habits" />
-<img src="https://github.com/lowlighter/metrics/blob/master/.github/metrics/classic/activity.svg" alt="Activity" />
+![Coding habits](./metrics.habits.svg)
+
+---
+
+### Recent activity
+
+![Recent activity](./metrics.activity.svg)
 
 ---
 
 ### Starred topics
 
-| Topic      | Domain        | Topic  | Domain        |
-| ---------- | ------------- | ------ | ------------- |
-| AWS        | Cloud & Infra | Linux  | OS            |
-| Go         | Backend       | GitHub | Collaboration |
-| Docker     | Containers    | Claude | AI            |
-| TypeScript | Typed JS      | Cursor | Editor        |
-| JavaScript | Frontend/full | Codex  | AI            |
-| React      | UI            | GCP    | Cloud         |
-| Databases  | Data          |        |               |
+![Starred topics](./metrics.topics.svg)
 
 ---
 
 ### GitHub Skyline
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngeleLindarteL/AngeleLindarteL/main/github-skyline3d.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngeleLindarteL/AngeleLindarteL/main/github-skyline3d_light.svg" />
-    <img alt="GitHub Skyline" src="https://raw.githubusercontent.com/AngeleLindarteL/AngeleLindarteL/main/github-skyline3d.svg" />
-  </picture>
-</p>
+![GitHub Skyline](./metrics.skyline.svg)
 
 ---
 
