@@ -35,9 +35,17 @@ Dev · backend, cloud e IA.
 
 ---
 
-### Starred topics
+### Topics
 
-![Starred topics](./metrics.topics.svg)
+| Topic       | Domain        | Topic  | Domain        |
+| ----------- | ------------- | ------ | ------------- |
+| AWS         | Cloud & Infra | Linux  | OS            |
+| Go          | Backend       | GitHub | Collaboration |
+| Docker      | Containers    | Claude | AI            |
+| TypeScript  | Typed JS      | Cursor | Editor        |
+| JavaScript  | Frontend/full | Codex  | AI            |
+| React       | UI            | GCP    | Cloud         |
+| Databases   | Data          |        |               |
 
 ---
 
